@@ -1,4 +1,4 @@
-# 🎥 YouTube Trending Data Pipeline
+# 🎥 YouTube Data Pipeline
 
 <div align="center">
 
